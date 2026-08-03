@@ -1,8 +1,9 @@
 ### 👋 我是 Kevin
 
-- 一人公司全球化先行者，十年软件开发经验。
-- AI独立开发14+盈利产品，从零到一日入万刀。
-- OpenClaw养虾高手，全自动化IP自媒体和AI编程。
+🧑🏻‍💻AI独立开发者｜OPC出海自由人
+🤑10+盈利产品｜从零到一日入万刀
+✌️Kevin的学堂：AI&健身&赚钱
+🤝社区&课程&咨询：http://kevintao1024.com
 
 <img width="1920" height="700" alt="wesubQRCode-release" src="https://github.com/user-attachments/assets/c4a2dd71-1517-4c6a-aec9-4aa8c2146a1e" />
 
